@@ -17,6 +17,7 @@ namespace Dev_Center.Repository
             }
             else
             {
+                // IF ist keine Schleife
                 return "Data Source=localhost:1521;User Id=repcapp;Password=w0rldlin3;";
             }
         }
