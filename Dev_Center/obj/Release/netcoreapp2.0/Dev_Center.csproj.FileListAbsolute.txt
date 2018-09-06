@@ -1,0 +1,11 @@
+D:\Desktop Sachen\4BHIF\Maturaprojekt\DevCenter\Dev_Center\bin\Release\netcoreapp2.0\Dev_Center.deps.json
+D:\Desktop Sachen\4BHIF\Maturaprojekt\DevCenter\Dev_Center\bin\Release\netcoreapp2.0\Dev_Center.runtimeconfig.json
+D:\Desktop Sachen\4BHIF\Maturaprojekt\DevCenter\Dev_Center\bin\Release\netcoreapp2.0\Dev_Center.runtimeconfig.dev.json
+D:\Desktop Sachen\4BHIF\Maturaprojekt\DevCenter\Dev_Center\bin\Release\netcoreapp2.0\Dev_Center.dll
+D:\Desktop Sachen\4BHIF\Maturaprojekt\DevCenter\Dev_Center\bin\Release\netcoreapp2.0\Dev_Center.pdb
+D:\Desktop Sachen\4BHIF\Maturaprojekt\DevCenter\Dev_Center\obj\Release\netcoreapp2.0\Dev_Center.csproj.CoreCompileInputs.cache
+D:\Desktop Sachen\4BHIF\Maturaprojekt\DevCenter\Dev_Center\obj\Release\netcoreapp2.0\Dev_Center.AssemblyInfoInputs.cache
+D:\Desktop Sachen\4BHIF\Maturaprojekt\DevCenter\Dev_Center\obj\Release\netcoreapp2.0\Dev_Center.AssemblyInfo.cs
+D:\Desktop Sachen\4BHIF\Maturaprojekt\DevCenter\Dev_Center\obj\Release\netcoreapp2.0\Dev_Center.dll
+D:\Desktop Sachen\4BHIF\Maturaprojekt\DevCenter\Dev_Center\obj\Release\netcoreapp2.0\Dev_Center.pdb
+D:\Desktop Sachen\4BHIF\Maturaprojekt\DevCenter\Dev_Center\obj\Release\netcoreapp2.0\Dev_Center.csprojAssemblyReference.cache

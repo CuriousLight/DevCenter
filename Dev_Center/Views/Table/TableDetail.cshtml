@@ -1,0 +1,49 @@
+﻿<style>
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+        padding: 15px;
+    }
+
+    .side {
+        flex: 30%;
+        background-color: #f1f1f1;
+        padding: 20px;
+    }
+
+    /* Main column */
+    .main {
+        flex: 70%;
+        background-color: white;
+        padding: 20px;
+    }
+</style>
+<h2>TableDetail</h2>
+<div class="row">
+
+    <div class="col-md-2">
+        <table>
+            <tr>
+                @{
+                    List<string[]> list = (List<string[]>)ViewData["TableDetail"];
+                    for (int j = 0; j < list[0].Length - 1; j++)
+                    {
+                        <th>@list[0][j].ToString()</th>
+                    }
+                }
+            </tr>
+            @{
+                for (int i = 1; i < list.Count; i++)
+                {
+                    <tr>
+                        @for (int j = 0; j < list[i].Length - 1; j++)
+                        {
+                            <td>@list[i][j].ToString()</td>
+                        }
+                    </tr>
+                }
+            }
+        </table>
+    </div>
+</div>
+

@@ -1,0 +1,63 @@
+﻿<style>
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+        padding: 15px;
+    }
+
+    .side {
+        flex: 30%;
+        background-color: #f1f1f1;
+        padding: 20px;
+    }
+
+    /* Main column */
+    .main {
+        flex: 70%;
+        background-color: white;
+        padding: 20px;
+    }
+</style>
+<h2>DomainList</h2>
+<div>
+
+    @using (Html.BeginForm("Filter", "Domain"))
+    {
+        <input name="Filterv" id="Filterv" type="text" />
+
+        <input type="submit" value="Filter" />
+    }
+</div>
+<div class="row">
+    <div class="col-md-2">
+        <table>
+            <tr>
+                @{
+                    List<string[]> list = (List<string[]>)ViewData["DomainList"];
+                    for (int j = 0; j < list[0].Length - 1; j++)
+                    {
+                        <th>@list[0][j].ToString()</th>
+                    }
+                }
+            </tr>
+            @{
+                for (int i = 1; i < list.Count; i++)
+                {
+                    <tr>
+                        @for (int j = 0; j < list[i].Length - 1; j++)
+                        {
+                            if (j == 0)
+                            {
+                                <td>@Html.ActionLink(list[i][j].ToString(), $"DomainDetail", "Domain", new { table = list[i][j].ToString() }, null)</td>
+                            }
+                            else
+                            {
+                                <td>@list[i][j].ToString()</td>
+                            }
+                        }
+                    </tr>
+                }
+            }
+        </table>
+    </div>
+</div>

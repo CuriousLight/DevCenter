@@ -1,0 +1,45 @@
+Wieland Dominik	04.07.2018 V1.0
+================================
+
+ASP.Net Core MVC (Endlösung, da das MVC Konzept die aufgabe erleichtert)
+	Vorteile:
+	- MVC ermöglich einfache Aufteilung und testung der Codes
+	- MVC ( Modulles| View | Controller)
+
+	Nachteile:
+	- Mehr Programmieraufwand da die einzelnen Programmcodes nicht in einer Klasse liegen
+	- Durch die Aufteilung kann man leicht den Überblick verlieren
+
+ASP.Net Core
+	- Veraltet
+	- Bietet gleiche Vorteile ohne der Aufteilung in MVC
+	- Abgelöst durch ASP.Net Core MVC
+
+ASP.Net WebForm
+	Vorteile:
+	- Einfaches erstellen einer Website mit html und css
+
+	Nachteile:
+	- einbindung von C# im Hintergrund
+
+	
+
+
+
+
+Datenbank darstellung:
+Variante 1 : ASP DataGridView
+		Pro: sieht gut aus und ist leicht veränder/wartbar
+		Con: geht nicht da die ASP Felder vom Compiler nicht gerrendert werden
+Variante 2 : Datenbanktabellen intern als Klasse darstellen, eine Liste dieser Klasse erstellen und die Daten einlesen.
+		https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-2.1&tabs=aspnetcore2x
+		Pro: Funktioniert
+		Con: Sehr programmier aufwändig und schlecht wart/erweiterbar
+Variante 3 : Datenabnk in ein DataTable laden und auf die .html übergeben zum wiedergeben
+		http://www.mukeshkumar.net/articles/aspnetcore/asp-net-core-web-api-with-oracle-database-and-dapper	
+		Pro: Leichte erweiterbarkeit da die daten nicht auf der html liegen sonder nur übergeben werden
+		Con: DataTable werden von .html nicht unterstützt, eine convertierung in array oder list wäre nötig
+Variante 4 : Datenbank zeilenweise einlesen in ein string[] speichern und dieses string[] asap displayn
+		https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/retrieving-data-using-a-datareader
+		Pro:
+		Con:

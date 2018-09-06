@@ -1,0 +1,35 @@
+Wieland Dominik		Dev_Center TODOListe:
+Alles mit einem x ist Fertig
+Alles mit einem - ist noch zu machen
+=========================================
+05.07.2018
+x Connection String (appsettings.json)
+x Web Oberfläche (View erstellen)
+x Controller für die Oberfläche
+- Schnittstelle nach Außen
+x Klassenbibliothek für externe Logik
+- Config Seite
+- Config Einstellungsliste
+- Erweiterungen
+
+09.07.2018
+x auslesen von der Datenbank mittels SQL Statement
+x Darstellen der Daten in tabellen form
+x menupunkt für die einzelnen abfragen
+
+11.07.2018
+x Filter erstellen
+x Dynamisches Darstellen von Daten in die View(HTML)
+
+19.07.18
+- RepcappRepository !!!!! Refactor!!
+
+20.07.18
+x Verlinkung auf andere Tabelen
+	.tabelle in eine eigerne html auslagern und mittels iframe aufrufe?
+	.Mit den Buttons die iframe laden und die jeweilige html laden
+
+31.07.18
+- PearSqript auslesen und die richtigen Select Statments eintragen
+- Tabelle für M.F. Bunt machen -.-
+- die restlichen verlinkungen der Felder machen
