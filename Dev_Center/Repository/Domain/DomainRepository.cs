@@ -13,7 +13,6 @@ namespace Dev_Center.Repository
         {
             if (worldline)
             {
-                System.Console.WriteLine("");
                 return "Data Source=(DESCRIPTION =(ADDRESS_LIST =(ADDRESS = (PROTOCOL = TCP)(Host = ECREP.org.oebb.at)(Port = 1521)))(CONNECT_DATA =(SID = ECREP)(SERVER = DEDICATED)));User Id=ws;Password=cisoe2016;";
             }
             else
