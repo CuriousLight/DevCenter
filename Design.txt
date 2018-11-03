@@ -35,7 +35,7 @@ Variante 2 : Datenbanktabellen intern als Klasse darstellen, eine Liste dieser K
 		https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-2.1&tabs=aspnetcore2x
 		Pro: Funktioniert
 		Con: Sehr programmier aufwändig und schlecht wart/erweiterbar
-Variante 3 : Datenabnk in ein DataTable laden und auf die .html übergeben zum wiedergeben
+Variante 3 : Datenbank in ein DataTable laden und auf die .html übergeben zum wiedergeben
 		http://www.mukeshkumar.net/articles/aspnetcore/asp-net-core-web-api-with-oracle-database-and-dapper	
 		Pro: Leichte erweiterbarkeit da die daten nicht auf der html liegen sonder nur übergeben werden
 		Con: DataTable werden von .html nicht unterstützt, eine convertierung in array oder list wäre nötig

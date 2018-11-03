@@ -31,3 +31,14 @@ C:\Users\Schwebekugel\Dropbox\Maturaprojekt\Maturaprojekt\DevCenter\Dev_Center\o
 C:\Users\Schwebekugel\Dropbox\Maturaprojekt\Maturaprojekt\DevCenter\Dev_Center\obj\Debug\netcoreapp2.0\Dev_Center.dll
 C:\Users\Schwebekugel\Dropbox\Maturaprojekt\Maturaprojekt\DevCenter\Dev_Center\obj\Debug\netcoreapp2.0\Dev_Center.pdb
 C:\Users\Schwebekugel\Dropbox\Maturaprojekt\Maturaprojekt\DevCenter\Dev_Center\obj\Debug\netcoreapp2.0\Dev_Center.csprojAssemblyReference.cache
+C:\Users\Schwebekugel\Desktop\VS_Projects\DevCenter\Dev_Center\bin\Debug\netcoreapp2.0\Dev_Center.deps.json
+C:\Users\Schwebekugel\Desktop\VS_Projects\DevCenter\Dev_Center\bin\Debug\netcoreapp2.0\Dev_Center.runtimeconfig.json
+C:\Users\Schwebekugel\Desktop\VS_Projects\DevCenter\Dev_Center\bin\Debug\netcoreapp2.0\Dev_Center.runtimeconfig.dev.json
+C:\Users\Schwebekugel\Desktop\VS_Projects\DevCenter\Dev_Center\bin\Debug\netcoreapp2.0\Dev_Center.dll
+C:\Users\Schwebekugel\Desktop\VS_Projects\DevCenter\Dev_Center\bin\Debug\netcoreapp2.0\Dev_Center.pdb
+C:\Users\Schwebekugel\Desktop\VS_Projects\DevCenter\Dev_Center\obj\Debug\netcoreapp2.0\Dev_Center.csprojResolveAssemblyReference.cache
+C:\Users\Schwebekugel\Desktop\VS_Projects\DevCenter\Dev_Center\obj\Debug\netcoreapp2.0\Dev_Center.csproj.CoreCompileInputs.cache
+C:\Users\Schwebekugel\Desktop\VS_Projects\DevCenter\Dev_Center\obj\Debug\netcoreapp2.0\Dev_Center.AssemblyInfoInputs.cache
+C:\Users\Schwebekugel\Desktop\VS_Projects\DevCenter\Dev_Center\obj\Debug\netcoreapp2.0\Dev_Center.AssemblyInfo.cs
+C:\Users\Schwebekugel\Desktop\VS_Projects\DevCenter\Dev_Center\obj\Debug\netcoreapp2.0\Dev_Center.dll
+C:\Users\Schwebekugel\Desktop\VS_Projects\DevCenter\Dev_Center\obj\Debug\netcoreapp2.0\Dev_Center.pdb
